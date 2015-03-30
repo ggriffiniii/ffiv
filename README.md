@@ -9,12 +9,12 @@ View
 
 Install node package manager (npm): https://github.com/npm/npm
 
-`$ sudo npm install -g grunt bower yo generator-karma generator-angular`
+* `$ sudo npm install -g grunt bower yo generator-karma generator-angular`
 
-Clone repository
-`$ cd ffiv`
-`$ npm update`
-`$ bower update`
-`$ grunt serve`
-Open browser to http://localhost:8080
+* Clone repository
+* `$ cd ffiv`
+* `$ npm update`
+* `$ bower update`
+* `$ grunt serve`
+* Open browser to http://localhost:8080
 
